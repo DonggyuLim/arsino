@@ -12,7 +12,382 @@
       "query": "archwayd query wasm",
       "tx": "archwayd tx wasm execute"
     },
-    "deployments": []
+    "deployments": [
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52636,
+        "address": "archway14kt65x34r04aea6jt5cgngxprsy6sq8av6dpgpsrdn9xczz9gv2qh86ahf",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52636
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52634,
+        "address": "archway1gu93e9nm960h3rwwlnhy3alkdu7qlh6t5ya6aqkfev4u0t44h7fq2wz5er",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52634
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52633
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52630,
+        "address": "archway1e3ycfgszk3clwalla6mxmdewyazndvgpdymtn2nfp5fzlnfvcktqkcfqvd",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52630
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52629,
+        "address": "archway177fw2cw3aqpd6q3tp58g09vmt0jxkh765xj7j859tuv3ex8me6xq7zw9ns",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52629
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52628,
+        "address": "archway1nuhd93mt2jehn3s3aadn224sxch7lpj37j4662ynk4r49m7nrjzs3ugln2",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52628
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52627,
+        "address": "archway1tta5lcj03mcq86dj3justupxuzrz8z5tcrvawrxh9qer8msvcumswrapjv",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52627
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52626,
+        "address": "archway1e6zs7ac9pjqmjrv385wqhuaccru088s3umkmd8k699yc9kfac9aswwqtas",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52626
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52625,
+        "address": "archway138e8d5dqf29p4sq5fy6yczcdnyvpg25fahw4z0qrft7fmsez29jqhmke3u",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52625
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52624,
+        "address": "archway106c8zanffhuenyvr2r7ghrtuvzzh5uq2dzfwl23d3nwj8eqd5w0slvwshw",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52624
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52623,
+        "address": "archway1p6yz5hge4gzggxykvxspay5gg8xrxmz0gd2fgmkfzqn7g8wtjsrqux85sv",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52623
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52612,
+        "address": "archway1h2h39ulwzrlt4v52py7a9dxlwe3w7nvaglk3g0qq8kjf7qg90aqq707kge",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52612
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52611,
+        "address": "archway1ngcd86tzyxws4yacw3nahrgmn07c6rzrc2jmdehgy65np9wcv35shffh5f",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52611
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52610,
+        "address": "archway1ax7qwucg0f96jlnpyek5vqhg3632d3ygrgyhwr4k4rxtr6xftngqmszyt8",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52610
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52609,
+        "address": "archway1yjn9wsw3q4r8d9dd9nacupfhwy8p0znt9l8x9zfrxwax2qntcjuslhzpsd",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52609
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52608,
+        "address": "archway17dhx9ghn022jwkn9l3fzqa64883t6n949shgn0wwze2pk5k6n2msyzceqw",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52608
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52605,
+        "address": "archway1hgk6xsmypavmf9u2s80qat38ktk5qsyknafpd7dx8dqp22xw05cspgh4ut",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52605
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52603
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52602
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52599
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52598,
+        "address": "archway1tfjfsxe3rymrl5q9l0l0ts4wsrfvh97mexe6krzets4jv8ynkjmqtq5wze",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52598
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52597,
+        "address": "archway1mj5pqlpv5vyc4cmx2h6lalhrgc0f8n89kug97kr08w5mp4r55yuq57arj0",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52597
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52595,
+        "address": "archway1xv5z575szq3va5wh7pj5rftf75twh025853kfxslny4tg4x2y6uqcs47dv",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52595
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52593,
+        "address": "archway1dchzlw4hj3tu08ex46n7zxewlrhn9z009cjjzz58zhf738t9zkgqjcfgr7",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52593
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52591,
+        "address": "archway16q9pvmtyycn832sxr0k59zzrpdkc2vh53qj895jpl940ayys0rws6krnrl",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52591
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52590,
+        "address": "archway1lu4uphsjyndgelmsvekwd68yc9vll2t28p0y3c8sxfgh9g5s7k0s3kjtma",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52590
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52589,
+        "address": "archway1d6jl0x7wj9jjxqnluf6086vwk70r52jcvsdgklkqdw9x4r6cpfrsmrdqzu",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52589
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52586,
+        "address": "archway14tv3f2el39wgj9l6j5rje0mmkl4797rhfs4ywhdncncsfg69nxpqzp3c3y",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52586
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52585,
+        "address": "archway1m8npxtp75p9ml529gdjvz29hncwsnlrpan0hjs4tj8rpmtaazwmqv7ue3l",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52585
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52583
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52582
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52581,
+        "address": "archway1hyc80gvsakyx0wf6pg4hl8tas0fl5dha4u4yepmd8rzz5ytt0ngs7rev87",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52581
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52580
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52579
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52578
+      },
+      {
+        "type": "instantiate",
+        "chainId": "torii-1",
+        "codeId": 52577,
+        "address": "archway1gfg03yrf7yg574lheg27jws2uh9pf5xs7dn73shq7jz9gdjdsdzq52wwfe",
+        "admin": "archway158q2d9kj7dx0waap4fjk0u27hda3tztapyc7fp"
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52577
+      },
+      {
+        "type": "create",
+        "chainId": "torii-1",
+        "codeId": 52576
+      }
+    ]
   },
   "network": {
     "name": "torii",
@@ -22,13 +397,13 @@
       "feeDenom": "utorii"
     },
     "gas": {
-      "prices": "0.002utorii",
+      "prices": "0.1utorii",
       "mode": "auto",
       "adjustment": "1.3"
     },
     "wasm": {
       "bech32Hrp": "archway",
-      "archwayd": "0.0.4",
+      "archwayd": "0.0.5",
       "configDir": ".archway",
       "binary": "archwayd"
     },
